@@ -1,6 +1,6 @@
 # Appointment planner
 
-Link to deployed app website -> [appointment planner](https://appointment-planner-kmachnik.netlify.app/contacts)
+Link to deployed app website -> [appointment planner](https://appointment-planner-kmachnik.netlify.app)
 
 **_Appointment planner_** is an app for making an anppointments. This project was made as a part of the **_Codecademy Front End Engineer_** career path course.
 With this app you can:
